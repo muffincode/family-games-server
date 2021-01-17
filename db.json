@@ -1,16 +1,21 @@
 {
-  "posts":[
+  "games": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 816765
     }
   ],
-  "comments" : [
+  "players": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 9575775,
+      "name": "constan",
+      "list": [
+        "dromadare",
+        "chameau ",
+        "encyclopédie",
+        "xcv"
+      ],
+      "team": "1",
+      "gameId": "816765"
     }
   ]
 }
