@@ -7,12 +7,12 @@
   "players": [
     {
       "id": 9575775,
-      "name": "constan",
+      "name": "Lorem Ipsum",
       "list": [
-        "dromadare",
-        "chameau ",
-        "encyclopédie",
-        "xcv"
+        "Mot 1",
+        "Mot 2 ",
+        "Mot 3",
+        "Mot 4"
       ],
       "team": "1",
       "gameId": "816765"
