@@ -2,12 +2,14 @@
 
 A simple `json-server` project to host party data.
 
+Run with `> node server.js`
+
 ## Games table
 
 ```
 "games": [
   {
-    "id": 816765
+    "id": 0
   }
 ]
 ```
@@ -17,16 +19,16 @@ A simple `json-server` project to host party data.
 ```
 "players": [
   {
-    "id": 9575775,
+    "id": 0,
     "name": "Lorem Ipsum",
-    "list": [
+    "words": [
       "Mot 1",
       "Mot 2 ",
       "Mot 3",
       "Mot 4"
     ],
     "team": "1",
-    "gameId": "816765"
+    "gameCode": "816765"
   }
 ]
 ```
